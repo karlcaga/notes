@@ -1,3 +1,6 @@
+# Aug 21
+- Add readthedocs for pplox_web
+
 # Aug 17
 - Use Gunicorn for production server inside of Docker
 - Create GCE instance to deploy pplox_web
