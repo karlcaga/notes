@@ -1,3 +1,11 @@
+# Aug 23
+- Added parser (v0.0.3)
+- Added parser to pplox_web
+- Moved pplox_web docs to material-mkdocs
+- Moved pplox_web docs from ReadTheDocs to GitHub Pages
+- Wrote changelog for pplox_web using material-mkdocs blog plugin
+- Made GitHub Action for deploying to GitHub Pages
+
 # Aug 21
 - Add readthedocs for pplox_web
 
