@@ -1,3 +1,6 @@
+# Aug 24
+- Added support for parsing strings and numbers
+
 # Aug 23
 - Added parser (v0.0.3)
 - Added parser to pplox_web
