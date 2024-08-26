@@ -1,3 +1,8 @@
+# Aug 25
+- Add structure to pplox_web 
+- Add more details to pplox readme
+- Add `--parse` option to pplox CLI
+
 # Aug 24
 - Added support for parsing strings and numbers
 
