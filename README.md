@@ -1,3 +1,7 @@
+# Aug 26
+- Add support for parsing parenthesized groups
+- Play with HTML 
+
 # Aug 25
 - Add structure to pplox_web 
 - Add more details to pplox readme
