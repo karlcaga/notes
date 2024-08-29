@@ -1,3 +1,8 @@
+# Aug 28
+- Complete parser implementation for expressions (v0.0.4)
+- Update pplox_web with finished parser
+- Begin writing expression evaluation by evaluating booleans and nil
+
 # Aug 26
 - Add support for parsing parenthesized groups
 - Play with HTML 
