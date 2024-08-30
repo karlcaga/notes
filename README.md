@@ -1,3 +1,8 @@
+# Aug 29
+- Add support for evaluating strings and numbers
+- Add evaluating functions to web app
+- Clean up formatting on web app
+
 # Aug 28
 - Complete parser implementation for expressions (v0.0.4)
 - Update pplox_web with finished parser
