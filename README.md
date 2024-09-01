@@ -1,3 +1,6 @@
+# Sep 1
+- Add support for evaluating groupings, arithmetic, comparisons, and error handling
+
 # Aug 29
 - Add support for evaluating strings and numbers
 - Add evaluating functions to web app
