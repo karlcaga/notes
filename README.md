@@ -1,8 +1,11 @@
+# Sep 2
+- Add support for `print` statements, variable declaration, variable re-assignments (v0.0.7)
+
 # Sep 1
-- Add support for evaluating groupings, arithmetic, comparisons, and error handling
+- Add support for evaluating groupings, arithmetic, comparisons, and error handling (v0.0.6)
 
 # Aug 29
-- Add support for evaluating strings and numbers
+- Add support for evaluating strings and numbers (v0.0.5)
 - Add evaluating functions to web app
 - Clean up formatting on web app
 
